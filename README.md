@@ -1,3 +1,7 @@
+# 🏦 Paisabazaar Banking Fraud Analysis
+
+---
+
 ## 📌 Problem Statement
 
 Financial institutions rely on credit scores to evaluate a customer's creditworthiness before approving loans or credit products. However, credit scores are influenced by multiple financial and behavioral factors such as income level, outstanding debt, credit utilization, payment behavior, and loan history.
